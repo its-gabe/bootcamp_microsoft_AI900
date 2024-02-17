@@ -28,14 +28,3 @@ O modelo de geração de legendas analisa a imagem e fornece uma descrição con
 - Pode falhar em capturar detalhes importantes da cena, como expressões faciais ou objetos específicos.
 - Tende a generalizar descrições em imagens com muitas pessoas ou elementos.
 
-## Screenshots (Opcional)
-
-Screenshots de algum dos outputs:
-
-![screenshot1](screenshots\ss1.png "Screenshot one")
-
-
-![screenshot2](screenshots\ss2.png "Screenshot two")
-
-
-![screenshot3](screenshots\ss3.png "Screenshot three")
