@@ -32,10 +32,10 @@ O modelo de geração de legendas analisa a imagem e fornece uma descrição con
 
 Screenshots de algum dos outputs:
 
-![screenshot_1](\screenshots\ss1.png)
+![screenshot1](screenshots\ss1.png "Screenshot one")
 
 
-![screenshot_2](\screenshots\ss2.png)
+![screenshot2](screenshots\ss2.png "Screenshot two")
 
 
-![screenshot_3](\screenshots\ss3.png)
+![screenshot3](screenshots\ss3.png "Screenshot three")
